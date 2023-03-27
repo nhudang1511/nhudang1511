@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm Như 👋
 
+I’m currently learning at HCMUTE. 
 <!--
 **nhudang1511/nhudang1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
